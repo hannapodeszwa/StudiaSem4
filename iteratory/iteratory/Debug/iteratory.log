@@ -1,0 +1,54 @@
+﻿  iteratory.cpp
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(13,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(44,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(117,16): warning C4244: "inicjowanie": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xmemory(2029,24): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(58): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „_FwdIt std::remove_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_ab385a4979a5a6fce1b8fc5d86865fda>>(_FwdIt,const _FwdIt,_Pr)” funkcji szablon
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Ty=double,
+              _Pr=main::<lambda_ab385a4979a5a6fce1b8fc5d86865fda>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(2945,46): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(106): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool std::binary_search<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int,bool(__cdecl *)(int,int)>(_FwdIt,_FwdIt,const int &,_Pr)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5106,19): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xmemory(2025): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „_InIt std::find_if<double*,_Pr>(_InIt,const _InIt,_Pr)” funkcji szablon
+          with
+          [
+              _InIt=double *,
+              _Pr=main::<lambda_ab385a4979a5a6fce1b8fc5d86865fda>
+          ]
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(58): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „_FwdIt std::remove_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_ab385a4979a5a6fce1b8fc5d86865fda>>(_FwdIt,const _FwdIt,_Pr)” funkcji szablon
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Ty=double,
+              _Pr=main::<lambda_ab385a4979a5a6fce1b8fc5d86865fda>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(5126,19): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(2944): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „_FwdIt *std::lower_bound<double*,_Ty,bool(__cdecl *)(int,int)>(_FwdIt,const _FwdIt,const _Ty &,_Pr)” funkcji szablon
+          with
+          [
+              _FwdIt=double *,
+              _Ty=int,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\iteratory\iteratory.cpp(106): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool std::binary_search<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int,bool(__cdecl *)(int,int)>(_FwdIt,_FwdIt,const int &,_Pr)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+  iteratory.vcxproj -> C:\Users\hanna\Desktop\github\HPwtorek1330\iteratory\Debug\iteratory.exe

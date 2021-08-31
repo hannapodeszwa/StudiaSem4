@@ -1,0 +1,3 @@
+﻿  wskazniki.cpp
+C:\Users\hanna\Desktop\github\HPwtorek1330\wskazniki\wskazniki\wskazniki.cpp(199,3): warning C4286: „std::bad_array_new_length &”: został przechwycony przez klasę bazową („std::bad_alloc &”) w wierszu 196
+  wskazniki.vcxproj -> C:\Users\hanna\Desktop\github\HPwtorek1330\wskazniki\Debug\wskazniki.exe

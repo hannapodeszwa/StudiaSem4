@@ -1,0 +1,4 @@
+﻿  watki.cpp
+C:\Users\hanna\Desktop\github\HPwtorek1330\watki\watki\watki.cpp(36,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\hanna\Desktop\github\HPwtorek1330\watki\watki\watki.cpp(45,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  watki.vcxproj -> C:\Users\hanna\Desktop\github\HPwtorek1330\watki\Debug\watki.exe

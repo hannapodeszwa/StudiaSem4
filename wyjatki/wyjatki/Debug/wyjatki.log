@@ -1,0 +1,9 @@
+﻿  wyjatki.cpp
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(93,14): warning C4101: "type": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(110,14): warning C4101: "type": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(139,14): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(161,13): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(164,18): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(200,18): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\wyjatki\wyjatki.cpp(168): warning C4715: "tangens”: niewszystkie ścieżki kodu zwracają wartość
+  wyjatki.vcxproj -> C:\Users\hanna\Desktop\github\HPwtorek1330\wyjatki\Debug\wyjatki.exe
